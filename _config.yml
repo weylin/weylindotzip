@@ -2,5 +2,11 @@ remote_theme: "dracula/gh-pages"
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Weylin's title went here.
+title: Weylin Dot Zip
 description: Hi, I'm Weylin!
+
+icon: weylin_computer.jpg
+colorspace: "1eeab7"
+
+show_downloads: "false"
+show_header: "true"
