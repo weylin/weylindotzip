@@ -1,3 +1,2 @@
-remote_theme: streetturtle/jekyll-clean-dark
-plugins:
+remote_theme: pages-themes/minimal
 - jekyll-remote-theme # add this line to the plugins list if you already have one
