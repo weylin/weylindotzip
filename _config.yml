@@ -10,3 +10,6 @@ colorspace: "1eeab7"
 
 show_downloads: "false"
 show_header: "true"
+
+include:
+  - node_modules
