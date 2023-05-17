@@ -1,5 +1,5 @@
 #Hi, I'm Weylin!
 
-## 🤦: Why
+## 🥔 Why
 
 ![Weylin Computer](weylin_computer.jpg)
